@@ -1,5 +1,5 @@
 {
 	"ImportPath": "request-dumper",
-	"GoVersion": "go1.4.2",
+	"GoVersion": "go1.12.2",
 	"Deps": []
 }
